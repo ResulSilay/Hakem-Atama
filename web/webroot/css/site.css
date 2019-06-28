@@ -1,0 +1,54 @@
+body {
+    -ms-flex-align: center;
+    align-items: center;
+    padding-top: 15px;
+    padding-bottom: 40px;
+    background-color: #e5e5e5;
+    display: inherit;
+    background-color: #f6f6f6;
+    background-image: url("data:image/svg+xml,%3Csvg width='64' height='64' viewBox='0 0 64 64' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M8 16c4.418 0 8-3.582 8-8s-3.582-8-8-8-8 3.582-8 8 3.582 8 8 8zm0-2c3.314 0 6-2.686 6-6s-2.686-6-6-6-6 2.686-6 6 2.686 6 6 6zm33.414-6l5.95-5.95L45.95.636 40 6.586 34.05.636 32.636 2.05 38.586 8l-5.95 5.95 1.414 1.414L40 9.414l5.95 5.95 1.414-1.414L41.414 8zM40 48c4.418 0 8-3.582 8-8s-3.582-8-8-8-8 3.582-8 8 3.582 8 8 8zm0-2c3.314 0 6-2.686 6-6s-2.686-6-6-6-6 2.686-6 6 2.686 6 6 6zM9.414 40l5.95-5.95-1.414-1.414L8 38.586l-5.95-5.95L.636 34.05 6.586 40l-5.95 5.95 1.414 1.414L8 41.414l5.95 5.95 1.414-1.414L9.414 40z' fill='%23e3e3e3' fill-opacity='0.4' fill-rule='evenodd'/%3E%3C/svg%3E");
+}
+
+.title {
+    padding-left: 25px;
+    padding-top: 15px;
+}
+
+.content {
+    padding: 25px;
+}
+
+.shadow {
+    border-radius: 3px;
+}
+
+.bag {
+    color: #000;
+    background-color: #ffffff;
+    border-color: #ffc107;
+}
+
+.display-4 {
+    font-size: 2rem;
+    font-weight: 300;
+    line-height: 1;
+    margin-bottom: 20px;
+}
+
+.table thead th {
+    font-size: 13px;
+}
+
+.table td, .table th {
+    font-size: 14px;
+}
+
+.menu_title {
+    padding-top: 15px;
+    font-size: 13px;
+    color: black;
+}
+
+hr {
+    margin-bottom: 0px;
+}
